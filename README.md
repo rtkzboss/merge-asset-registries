@@ -11,7 +11,7 @@ Arguments:
           Input file paths
 
 Options:
-  -s, --stub-assets <STUB_ASSETS>
+  -s, --stub-asset <STUB_ASSETS>
           Insert empty entries for the given asset references
 
           e.g. AnimBoneCompressionSettings'/Engine/Animation/ACLAnimBoneCompressionSettings.ACLAnimBoneCompressionSettings'
