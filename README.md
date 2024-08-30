@@ -12,4 +12,5 @@ Arguments:
 Options:
   -o, --output <OUTPUT>  Output file path
   -h, --help             Print help
+  -V, --version          Print version
 ```
